@@ -1,2 +1,2 @@
 # PRODIGY_CS_02
-ask 2: Image Manipulation Tool 
+Task 2: Image Manipulation Tool 
